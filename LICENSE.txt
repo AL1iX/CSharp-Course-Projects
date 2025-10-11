@@ -1,5 +1,5 @@
 MIT License
 
-Copyright (c) 2024 Ваше Имя
+Copyright (c) 2024 Salavat Shakirov
 
 Permission is hereby granted...
