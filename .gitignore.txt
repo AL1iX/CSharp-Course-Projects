@@ -1,0 +1,21 @@
+# Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vs/
+*.csproj.user
+
+# VS Code
+.vscode/
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Логи
+*.log
+
+# Файлы данных (если нужны)
+# !data/important-file.json

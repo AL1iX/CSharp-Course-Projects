@@ -1,0 +1,5 @@
+MIT License
+
+Copyright (c) 2024 Ваше Имя
+
+Permission is hereby granted...
